@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Timi Durojaiye\\Desktop\\my-first-hardhat\\contracts\\MyFirstContract.sol": {
+      "lastModificationDate": 1627430242080,
+      "contentHash": "3fa290c75314b69e273c01bf2fd3e83c",
+      "sourceName": "contracts/MyFirstContract.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.7.3"
+      ],
+      "artifacts": [
+        "MyFirstContract"
+      ]
+    },
+    "C:\\Users\\Timi Durojaiye\\Desktop\\my-first-hardhat\\contracts\\TestToken.sol": {
+      "lastModificationDate": 1629106444977,
+      "contentHash": "563c8f0a78429054f6f6914a40e8183e",
+      "sourceName": "contracts/TestToken.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.7.3"
+      ],
+      "artifacts": [
+        "IERC20",
+        "SafeMath",
+        "TestToken"
+      ]
+    }
+  }
+}
